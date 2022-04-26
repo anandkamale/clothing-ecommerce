@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/basir/amazona.git"
+    "url": "https://github.com/anandkamale/clothing-ecommerce"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/basir/amazona/issues"
+    "url": "https://github.com/anandkamale/clothing-ecommerce"
   },
-  "homepage": "https://github.com/basir/amazona#readme",
+  "homepage": "https://github.com/anandkamale/clothing-ecommerce",
   "devDependencies": {
     "eslint": "^7.9.0",
     "eslint-plugin-react": "^7.21.2",
